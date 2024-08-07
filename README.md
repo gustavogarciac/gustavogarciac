@@ -66,17 +66,17 @@ I believe that with good creativity and code manipulation it is possible to tran
 <a><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/kubernetes.svg" alt="Azure" width="21px" height="21px"></a>
 # 📊 GitHub Stats
 
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogarciac&theme=tokyonight" />
-</p>
-<br/><br/>
-
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavogarciac&theme=tokyonight" />
-</p>
-<br/><br/>
-
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavogarciac&theme=tokyonight" />
-</p>
-<br/><br/>
+<table align="left">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='200' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogarciac&theme=tokyonight">
+    </td>
+    <td>
+      <img height='200' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavogarciac&theme=tokyonight">
+    </td>
+    <td>
+      <img height='200' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavogarciac&theme=tokyonight">
+    </td>
+  </row>
+</table> 
