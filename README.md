@@ -1,10 +1,22 @@
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-black)(https://gustavogarciac.tech)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-black)](https://gustavogarciac.tech)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-garcia-614910181/)](https://www.linkedin.com/in/gustavo-garcia-614910181/) 
 # Hello World! I'm Gustavo Garcia. 👋
 
 Full Stack Developer.
 I am passionate about expanding my knowledge and enthusiastic about the most diverse web development technologies.
 I believe that with good creativity and code manipulation it is possible to transform the realities of companies and people. 💜
+
+# 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/gustavo-garcia-614910181/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://gustavogarcia.tech" target="_blank">
+<img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br/><br/>
 
 ## Technologies which I build cutting-edge applications 🚀
 
