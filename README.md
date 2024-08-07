@@ -1,4 +1,5 @@
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-black)(https://gustavogarciac.tech)]
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-black)(https://gustavogarciac.tech)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-garcia-614910181/)](https://www.linkedin.com/in/gustavo-garcia-614910181/) 
 # Hello World! I'm Gustavo Garcia. 👋
 
 Full Stack Developer.
@@ -19,3 +20,6 @@ I believe that with good creativity and code manipulation it is possible to tran
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite Icon">
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres Icon">
 </div>
+
+# 📊 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogarciac&theme=tokyonight)
