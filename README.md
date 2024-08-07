@@ -6,7 +6,7 @@ Full Stack Developer.
 I am passionate about expanding my knowledge and enthusiastic about the most diverse web development technologies.
 I believe that with good creativity and code manipulation it is possible to transform the realities of companies and people. 💜
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gustavo-garcia-614910181/" target="_blank">
@@ -68,5 +68,15 @@ I believe that with good creativity and code manipulation it is possible to tran
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogarciac&theme=tokyonight" />
+</p>
+<br/><br/>
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavogarciac&theme=tokyonight" />
+</p>
+<br/><br/>
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavogarciac&theme=tokyonight" />
 </p>
 <br/><br/>
