@@ -2,9 +2,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-garcia-614910181/)](https://www.linkedin.com/in/gustavo-garcia-614910181/) 
 # Hello World! I'm Gustavo Garcia. 👋
 
-Full Stack Developer.
-I am passionate about expanding my knowledge and enthusiastic about the most diverse web development technologies.
-I believe that with good creativity and code manipulation it is possible to transform the realities of companies and people. 💜
+Hey there!
+I'm a software engineer and web developer with 2 years of experience under my belt. I'm based in Brazil and I've been working hard to improve both my technical skills and interpersonal abilities to provide innovative solutions to my clients.
+
+I've been passionate about technology from a young age, always tinkering with computers, and tweaking games. In 2022, I decided to pursue programming, and by 2024, I was enrolled in a software engineering degree program, which is where I am today.
+
+My ultimate goal is to bring people and technology closer together to drive progress. 💜
 
 ## 📫 Connect With Me
 
