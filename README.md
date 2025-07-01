@@ -3,7 +3,7 @@
 # Hello World! I'm Gustavo Garcia. 👋
 
 Hey there!
-I'm a software engineer and web developer with 2 years of experience under my belt. I'm based in Brazil and I've been working hard to improve both my technical skills and interpersonal abilities to provide innovative solutions to my clients.
+I'm a software engineer and web developer with 3 years of experience under my belt. I'm based in Brazil and I've been working hard to improve both my technical skills and interpersonal abilities to provide innovative solutions to my clients.
 
 I've been passionate about technology from a young age, always tinkering with computers, and tweaking games. In 2022, I decided to pursue programming, and by 2024, I was enrolled in a software engineering degree program, which is where I am today.
 
